@@ -1,0 +1,17 @@
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.exe
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.deps.json
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.dll
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.pdb
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.dll
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\refint\LibraryManagementSystem.dll
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.pdb
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\ref\LibraryManagementSystem.dll
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\umutc\RiderProjects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.csproj.CopyComplete
